@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jaismin Kaur</h1>
-<h3 align="center">AI Engineer | B.Tech in CSE (2023) | Birlasoft</h3>
+<h3 align="center">AI Engineer | B.Tech in CSE (2023) </h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/26xBIygOcC3bAWg3q/giphy.gif" width="200" alt="AI Animation"/>
@@ -20,7 +20,7 @@
 📫 **How to reach me**
 
 - Email: [your.email@example.com]  
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/jaismin-kaur-9542621a7)
 - Portfolio: [jaisminkaur.dev](https://jaisminkaur.dev) *(Optional – add if available)*
 
 ---
