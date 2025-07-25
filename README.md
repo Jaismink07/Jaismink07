@@ -15,7 +15,7 @@
 
 📫 **How to reach me**
 
-- Email: [your.email@example.com]  
+- Email: [jaismink0904@gmail.com]  
 - LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/jaismin-kaur-9542621a7)
 - Portfolio: [jaisminkaur.dev](https://jaisminkaur.dev) *(Optional – add if available)*
 
