@@ -2,7 +2,8 @@
 <h3 align="center">AI Engineer | B.Tech in CSE (2023) </h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26xBIygOcC3bAWg3q/giphy.gif" width="200" alt="AI Animation"/>
+  <img src="https://images.app.goo.gl/cTxSt"
+ width="200" alt="AI Animation"/>
 </p>
 
 ---
