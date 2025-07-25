@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jaismin Kaur</h1>
 <h3 align="center">AI Engineer | B.Tech in CSE (2023) </h3>
 
-<p align="center">
-  <img src="https://images.app.goo.gl/cTxSt"
- width="200" alt="AI Animation"/>
-</p>
-
 ---
 
 🌱 **About Me**
